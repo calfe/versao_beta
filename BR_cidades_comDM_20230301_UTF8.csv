@@ -1,0 +1,101 @@
+ibge;regiao;uf;municipio;municipio_semacento;municipio_formatado;uf_completo;pais;rm;cat_hier;cat_hier_agreg;pop_2021;n_pop_2021;dm_coletivo;dm_auto;dm_moto;dm_individual;dm_ape;dm_bike;dm_ativo;dm_taxi;dm_app;dm_caminhao;dm_col_metrop;meta_dm;meta_dm_coletivo;meta_dm_individual;meta_dm_ape;meta_dm_bike;meta_dm_ativo
+4217253;S;SC;SÃO PEDRO DE ALCÂNTARA;Sao Pedro de Alcantara;São Pedro de Alcântara;Santa Catarina;Brasil;Sim;9;5;1;2520;0,440;Null;Null;0,450;Null;Null;0,120;Null;Null;Null;Null;Não;Null;Null;Null;Null;Null
+4215901;S;SC;SÃO BONIFÁCIO;São Bonifacio;São Bonifácio;Santa Catarina;Brasil;Sim;1;1;1;2791;0,140;Null;Null;0,470;Null;Null;0,390;Null;Null;Null;Null;Não;Null;Null;Null;Null;Null
+4214300;S;SC;RANCHO QUEIMADO;Rancho Queimado;Rancho Queimado;Santa Catarina;Brasil;Sim;1;1;1;2897;0,080;Null;Null;0,610;Null;Null;0,320;Null;Null;Null;Null;Não;Null;Null;Null;Null;Null
+4201109;S;SC;ANITÁPOLIS;Anitapolis;Anitápolis;Santa Catarina;Brasil;Sim;1;1;1;3223;0,170;Null;Null;0,040;Null;Null;0,790;Null;Null;Null;Null;Não;Null;Null;Null;Null;Null
+4200903;S;SC;ANGELINA;Angelina;Angelina;Santa Catarina;Brasil;Sim;1;1;1;4646;0,220;Null;Null;0,410;Null;Null;0,360;Null;Null;Null;Null;Não;Null;Null;Null;Null;Null
+4200606;S;SC;ÁGUAS MORNAS;Aguas Mornas;Águas Mornas;Santa Catarina;Brasil;Sim;9;5;1;6646;0,340;Null;Null;0,520;Null;Null;0,140;Null;Null;Null;Null;Não;Null;Null;Null;Null;Null
+1506187;N;PA;RONDON DO PARA;Rondon do Para;Rondon do Pará;Pará;Brasil;Não;1;1;1;9664;Null;0,090;0,500;0,590;0,390;0,010;0,400;Null;Null;Null;Null;Não;Null;Null;Null;Null;Null
+4201208;S;SC;ANTÔNIO CARLOS;Antonio Carlos;Antônio Carlos;Santa Catarina;Brasil;Sim;9;5;1;11471;0,210;Null;Null;0,360;Null;Null;0,430;Null;Null;Null;Null;Não;Null;Null;Null;Null;Null
+4210001;S;SC;LUIZ ALVES;Luiz Alves;Luiz Alves;Santa Catarina;Brasil;Sim;1;1;1;13347;0,030;0,560;0,150;0,710;0,170;0,080;0,250;Null;Null;Null;Null;Sim;0,110;0,430;0,230;0,130;0,360
+4207106;S;SC;ILHOTA;Ilhota;Ilhota;Santa Catarina;Brasil;Sim;7;4;1;14531;0,070;0,440;0,130;0,570;0,240;0,110;0,350;Null;Null;Null;Null;Sim;0,120;0,370;0,240;0,150;0,390
+4206009;S;SC;GOVERNADOR CELSO RAMOS;Governador Celso Ramos;Governador Celso Ramos;Santa Catarina;Brasil;Sim;9;5;1;14739;0,220;Null;Null;0,280;Null;Null;0,500;Null;Null;Null;Null;Não;Null;Null;Null;Null;Null
+4202453;S;SC;BOMBINHAS;Bombinhas;Bombinhas;Santa Catarina;Brasil;Sim;2;3;2;20889;0,050;0,370;0,100;0,470;0,320;0,090;0,410;Null;Null;Null;Null;Sim;0,140;0,430;0,320;0,160;0,480
+3115508;SE;MG;CAXAMBU;Caxambu;Caxambu;Minas Gerais;Brasil;Não;4;3;2;21566;0,112;0,479;0,083;0,562;0,279;0,035;0,314;Null;Null;Null;Null;Não;Null;Null;Null;Null;Null
+4213500;S;SC;PORTO BELO;Porto Belo;Porto Belo;Santa Catarina;Brasil;Sim;4;3;2;22466;0,053;0,460;0,130;0,590;0,270;0,100;0,370;Null;Null;Null;Null;Sim;0,120;0,430;0,270;0,190;0,460
+4215703;S;SC;SANTO AMARO DA IMPERATRIZ;Santo Amaro da Imperatriz;Santo Amaro da Imperatriz;Santa Catarina;Brasil;Sim;9;5;2;23907;0,140;Null;Null;0,690;Null;Null;0,170;Null;Null;Null;Null;Não;Null;Null;Null;Null;Null
+4212809;S;SC;BALNEARIO PICARRAS;Balneario Picarras;Balneário Piçarras;Santa Catarina;Brasil;Sim;7;4;2;24385;0,040;0,410;0,060;0,470;0,250;0,160;0,410;Null;Null;Null;Null;Sim;0,130;0,320;0,250;0,160;0,410
+4311304;S;RS;LAGOA VERMELHA;Lagoa Vermelha;Lagoa Vermelha;Rio Grande do Sul;Brasil;Não;4;3;2;27751;0,121;0,471;0,015;0,486;0,380;0,006;0,386;0,007;Null;Null;Null;Não;Null;Null;Null;Null;Null
+3200102;SE;ES;AFONSO CLAUDIO;Afonso Claudio;Afonso Cláudio;Espírito Santo;Brasil;Não;2;2;2;30326;0,010;0,560;0,350;0,910;Null;Null;Null;Null;Null;0,080;Null;Não;Null;Null;Null;Null;Null
+2313104;NE;CE;TABULEIRO DO NORTE;Tabuleiro do Norte;Tabuleiro do Norte;Ceará;Brasil;Não;1;1;2;32079;0,110;0,150;0,530;0,680;0,160;0,040;0,200;0,010;Null;Null;Null;Sim;Null;0,470;Null;Null;Null
+4212502;S;SC;PENHA;Penha;Penha;Santa Catarina;Brasil;Sim;7;4;2;34022;0,050;0,390;0,090;0,480;0,300;0,140;0,440;Null;Null;Null;Null;Sim;0,140;0,380;0,300;0,190;0,490
+2306900;NE;CE;JAGUARIBE;Jaguaribe;Jaguaribe;Ceará;Brasil;Não;1;1;2;34592;0,230;0,160;0,370;0,530;0,220;0,010;0,230;0,010;Null;Null;Null;Sim;Null;0,470;Null;Null;Null
+1502152;N;PA;CANAA DOS CARAJAS;Canaa dos Carajas;Canaã dos Carajás;Pará;Brasil;Não;1;1;2;39103;Null;Null;Null;Null;0,330;0,110;Null;Null;Null;Null;Null;Sim;Null;Null;0,429;0,165;0,594
+4215000;S;SC;RIO NEGRINHO;Rio Negrinho;Rio Negrinho;Santa Catarina;Brasil;Sim;4;3;2;42684;0,069;0,700;0,074;0,774;0,128;0,014;0,142;Null;Null;Null;Null;Não;Null;Null;Null;Null;Null
+3554805;SE;SP;TREMEMBE;Tremembe;Tremembé;São Paulo;Brasil;Sim;7;4;2;48228;0,050;0,360;0,080;0,440;0,330;0,170;0,500;Null;Null;Null;Null;Não;Null;Null;Null;Null;Null
+4219309;S;SC;VIDEIRA;Videira;Videira;Santa Catarina;Brasil;Sim;4;3;2;54145;0,100;0,570;0,070;0,640;0,250;0,010;0,260;Null;Null;Null;Null;Sim;0,240;0,470;0,270;0,020;0,290
+5005707;CO;MS;NAVIRAI;Navirai;Naviraí;Mato Grosso do Sul;Brasil;Não;4;3;2;55689;0,080;0,530;0,360;0,890;null;null;null;null;null;0,040;null;Não;Null;Null;Null;Null;Null
+3542602;SE;SP;REGISTRO;Registro;Registro;São Paulo;Brasil;Não;4;3;2;56463;0,182;0,648;Null;0,648;Null;0,087;0,087;Null;Null;Null;0,029;Sim;0,400;0,200;Null;Null;Null
+3531100;SE;SP;MONGAGUA;Mongagua;Mongaguá;São Paulo;Brasil;Sim;6;4;2;58567;Null;Null;Null;Null;0,310;0,210;0,520;Null;Null;Null;Null;Não;Null;Null;Null;Null;Null
+2307601;NE;CE;LIMOEIRO DO NORTE;Limoeiro do Norte;Limoeiro do Norte;Ceará;Brasil;Não;4;3;3;60232;0,090;0,120;0,480;0,600;0,120;0,120;0,240;0,020;Null;Null;0,020;Sim;Null;0,470;Null;Null;Null
+4208302;S;SC;ITAPEMA;Itapema;Itapema;Santa Catarina;Brasil;Sim;4;3;3;69323;0,050;0,390;0,070;0,460;0,330;0,140;0,470;Null;Null;Null;Null;Sim;0,140;0,430;0,330;0,170;0,500
+4202305;S;SC;BIGUAÇU;Biguaçu;Biguaçu;Santa Catarina;Brasil;Sim;9;5;3;70471;0,330;Null;Null;0,380;Null;Null;0,290;Null;Null;Null;Null;Não;Null;Null;Null;Null;Null
+4205902;S;SC;GASPAR;Gaspar;Gaspar;Santa Catarina;Brasil;Sim;7;4;3;71925;0,178;0,230;0,072;0,302;0,413;0,102;0,515;0,006;Null;Null;Null;Não;Null;Null;Null;Null;Null
+3506102;SE;SP;BEBEDOURO;Bebedouro;Bebedouro;São Paulo;Brasil;Não;4;3;3;77612;0,192;0,234;0,147;0,381;0,251;0,114;0,365;Null;Null;Null;Null;Não;Null;Null;Null;Null;Null
+4319901;S;RS;SAPIRANGA;Sapiranga;Sapiranga;Rio Grande do Sul;Brasil;Sim;9;5;3;80514;0,120;0,380;0,070;0,450;0,240;0,130;0,370;0,012;Null;Null;Null;Não;Null;Null;Null;Null;Null
+4211306;S;SC;NAVEGANTES;Navegantes;Navegantes;Santa Catarina;Brasil;Sim;7;4;3;85734;0,040;0,360;0,100;0,460;0,330;0,130;0,460;Null;Null;Null;Null;Sim;0,130;0,420;0,330;0,150;0,480
+3508504;SE;SP;CACAPAVA;Cacapava;Cacapava;São Paulo;Brasil;Sim;7;4;3;95752;0,001;Null;Null;0,785;Null;Null;0,133;Null;Null;0,081;Null;Não;Null;Null;Null;Null;Null
+3557105;SE;SP;VOTUPORANGA;Votuporanga;Votuporanga;São Paulo;Brasil;Não;4;3;3;96106;0,038;0,550;0,226;0,776;0,143;0,020;0,163;0,002;Null;0,014;0,007;Sim;0,051;Null;Null;0,027;Null
+4107652;S;PR;FAZENDA RIO GRANDE;Fazenda Rio Grande;Fazenda Rio Grande;Paraná;Brasil;Sim;9;5;4;103750;0,252;0,138;Null;Null;0,565;0,010;0,575;0,025;Null;Null;Null;Não;Null;Null;Null;Null;Null
+3522109;SE;SP;ITANHAEM;Itanhaem;Itanhaém;São Paulo;Brasil;Sim;6;4;4;104351;0,230;0,170;0,050;0,220;0,280;0,230;0,510;0,010;Null;Null;0,020;Não;Null;Null;Null;Null;Null
+5003207;CO;MS;CORUMBA;Corumba;Corumbá;Mato Grosso do Sul;Brasil;Não;4;3;4;112058;0,190;0,350;0,120;0,470;0,260;0,070;0,330;0,010;Null;Null;Null;Sim;0,280;0,200;0,360;0,160;0,520
+3557006;SE;SP;VOTORANTIM;Votorantim;Votorantim;São Paulo;Brasil;Sim;7;4;4;124468;0,300;0,290;0,080;0,370;0,310;0,020;0,330;0,000;Null;Null;Null;Sim;0,360;0,220;0,340;0,080;0,420
+4322400;S;RS;URUGUAIANA;Uruguaiana;Uruguaiana;Rio Grande do Sul;Brasil;Não;4;3;4;126766;0,101;0,307;0,054;0,366;0,429;0,079;0,508;0,006;Null;Null;Null;Não;Null;Null;Null;Null;Null
+3547304;SE;SP;SANTANA DE PARNAÍBA;Santana de Parnaiba;Santana de Parnaíba;São Paulo;Brasil;Sim;11;7;4;145073;0,346;0,135;0,040;0,175;0,448;0,011;0,459;0,000;Null;Null;0,019;Não;Null;Null;Null;Null;Null
+4101804;S;PR;ARAUCÁRIA;Araucaria;Araucária;Paraná;Brasil;Sim;9;5;4;148522;0,310;0,470;0,030;Null;0,090;0,020;0,110;Null;Null;Null;Null;Não;Null;Null;Null;Null;Null
+4202008;S;SC;BALNEARIO CAMBORIU;Balneario Camboriu;Balneário Camboriú;Santa Catarina;Brasil;Sim;7;4;4;149227;0,050;0,420;0,200;0,620;0,220;0,100;0,320;Null;Null;Null;Null;Sim;0,170;0,420;0,280;0,170;0,450
+3525300;SE;SP;JAU;Jau;Jaú;São Paulo;Brasil;Não;6;4;4;153463;0,356;Null;Null;0,486;0,146;0,004;0,150;Null;Null;Null;Null;Sim;Null;Null;Null;Null;0,250
+3516408;SE;SP;FRANCO DA ROCHA;Franco da Rocha;Franco da Rocha;São Paulo;Brasil;Sim;11;7;4;158438;0,350;0,040;0,010;0,050;0,240;0,130;0,370;Null;Null;Null;0,360;Sim;0,400;0,200;0,370;0,030;0,400
+3548807;SE;SP;SÃO CAETANO DO SUL;Sao Caetano do Sul;São Caetano do Sul;São Paulo;Brasil;Sim;11;7;4;162763;0,200;0,460;0,030;0,490;0,280;0,000;0,280;0,000;Null;Null;0,030;Não;Null;Null;Null;Null;Null
+4211900;S;SC;PALHOÇA;Palhoça;Palhoça;Santa Catarina;Brasil;Sim;9;5;4;178679;0,290;Null;Null;0,460;Null;Null;0,250;Null;Null;Null;Null;Não;Null;Null;Null;Null;Null
+4314100;S;RS;PASSO FUNDO;Passo Fundo;Passo Fundo;Rio Grande do Sul;Brasil;Não;7;4;4;206103;0,229;0,490;0,056;0,548;0,219;0,004;0,222;0,001;Null;Null;Null;Não;Null;Null;Null;Null;Null
+2312908;NE;CE;SOBRAL;Sobral;Sobral;Ceará;Brasil;Não;6;4;4;212437;0,059;0,319;0,319;0,638;0,206;0,031;0,237;0,062;Null;Null;Null;Sim;0,190;0,280;0,450;0,080;0,530
+4208203;S;SC;ITAJAI;Itajai;Itajaí;Santa Catarina;Brasil;Sim;7;4;4;226617;0,080;0,470;0,130;0,600;0,220;0,090;0,310;Null;Null;Null;Null;Sim;0,140;0,430;0,220;0,130;0,350
+3503208;SE;SP;ARARAQUARA;Araraquara;Araraquara;São Paulo;Brasil;Não;6;4;4;240542;0,358;0,399;0,079;0,478;0,108;0,049;0,157;Null;Null;Null;Null;Não;Null;Null;Null;Null;Null
+4313409;S;RS;NOVO HAMBURGO;Novo Hamburgo;Novo Hamburgo;Rio Grande do Sul;Brasil;Sim;9;5;4;247303;0,234;0,542;0,029;0,571;0,171;0,017;0,188;0,005;0,019;0,008;0,019;Não;Null;Null;Null;Null;Null
+4216602;S;SC;SÃO JOSÉ;Sao Jose;São José;Santa Catarina;Brasil;Sim;9;5;5;253705;0,240;Null;Null;0,530;Null;Null;0,220;Null;Null;Null;Null;Não;Null;Null;Null;Null;Null
+3520509;SE;SP;INDAIATUBA;Indaiatuba;Indaiatuba;São Paulo;Brasil;Sim;4;3;5;260690;0,162;Null;Null;0,515;Null;Null;0,323;Null;Null;Null;Null;Não;Null;Null;Null;Null;Null
+3302403;SE;RJ;MACAE;Macae;Macaé;Rio de Janeiro;Brasil;Não;6;4;5;266136;0,660;0,270;0,030;Null;Null;Null;Null;Null;Null;0,030;Null;Não;Null;Null;Null;Null;Null
+3505708;SE;SP;BARUERI;Barueri;Barueri;São Paulo;Brasil;Sim;11;7;5;279704;0,182;0,351;0,058;0,409;0,255;0,004;0,259;0,011;Null;Null;0,135;Sim;0,364;0,317;0,300;0,019;0,319
+4316907;S;RS;SANTA MARIA;Santa Maria;Santa Maria;Rio Grande do Sul;Brasil;Não;6;4;5;285159;0,247;0,398;0,067;0,472;0,272;0,006;0,278;0,013;Null;Null;Null;Sim;0,248;0,406;0,332;0,011;0,343
+3552403;SE;SP;SUMARE;Sumare;Sumaré;São Paulo;Brasil;Sim;9;5;5;289875;0,254;0,385;0,049;0,434;0,251;0,022;0,273;0,002;Null;0,002;0,035;Não;Null;Null;Null;Null;Null
+3303906;SE;RJ;PETRÓPOLIS;Petropolis;Petrópolis;Rio de Janeiro;Brasil;Sim;6;4;5;307144;0,011;0,770;0,170;0,940;null;null;null;null;null;0,020;null;Não;Null;Null;Null;Null;Null
+2905701;"	NE	";BA;CAMAÇARI;Camacari;Camaçari;Bahia;Brasil;Sim;9;5;5;309208;0,186;0,121;0,049;0,170;0,463;0,042;0,505;0,007;Null;Null;0,040;Sim;0,300;Null;Null;Null;Null
+3554102;SE;SP;TAUBATE;Taubate;Taubaté;São Paulo;Brasil;Sim;7;4;5;320820;0,040;0,620;0,160;0,780;0,080;0,100;0,180;0,000;Null;Null;Null;Não;Null;Null;Null;Null;Null
+3541000;SE;SP;PRAIA GRANDE;Praia Grande;Praia Grande;São Paulo;Brasil;Sim;1;1;5;336454;0,250;0,280;0,060;0,340;0,270;0,140;0,410;Null;Null;Null;Null;Não;Null;Null;Null;Null;Null
+4314407;S;RS;PELOTAS;Pelotas;Pelotas;Rio Grande do Sul;Brasil;Não;6;4;5;343826;0,242;0,335;0,058;0,393;0,274;0,055;0,329;Null;Null;Null;Null;Não;Null;Null;Null;Null;Null
+4304606;S;RS;CANOAS;Canoas;Canoas;Rio Grande do Sul;Brasil;Sim;9;5;5;349728;0,280;0,310;0,030;0,340;0,230;0,050;0,280;Null;0,050;Null;0,080;Não;Null;Null;Null;Null;Null
+4202404;S;SC;BLUMENAU;Blumenau;Blumenau;Santa Catarina;Brasil;Não;7;4;5;366418;0,200;Null;Null;0,580;Null;Null;0,210;Null;Null;Null;Null;Sim;0,310;0,380;0,250;0,060;0,310
+3205309;SE;ES;VITORIA;Vitoria;Vitória;Espírito Santo;Brasil;Sim;9;5;5;369534;0,332;Null;Null;0,426;0,214;0,027;0,241;Null;Null;Null;Null;Não;Null;Null;Null;Null;Null
+3551009;SE;SP;SÃO VICENTE;Sao Vicente;São Vicente;São Paulo;Brasil;Sim;6;4;5;370839;0,451;Null;Null;0,333;Null;Null;0,148;Null;Null;Null;Null;Não;Null;Null;Null;Null;Null
+2609600;NE;PE;OLINDA;Olinda;Olinda;Pernambuco;Brasil;Sim;9;5;5;393734;0,736;Null;Null;0,264;Null;Null;Null;Null;Null;Null;Null;Não;Null;Null;Null;Null;Null
+3510609;SE;SP;CARAPICUÍBA;Carapicuiba;Carapicuíba;São Paulo;Brasil;Sim;11;7;5;405375;0,560;Null;Null;0,440;Null;Null;Null;Null;Null;Null;Null;Não;Null;Null;Null;Null;Null
+3513801;SE;SP;DIADEMA;Diadema;Diadema;São Paulo;Brasil;Sim;11;7;5;429550;0,310;Null;Null;0,290;Null;Null;0,400;Null;Null;Null;Null;Não;Null;Null;Null;Null;Null
+3548500;SE;SP;SANTOS;Santos;Santos;São Paulo;Brasil;Sim;6;4;5;433991;0,300;0,160;0,040;0,200;0,320;0,150;0,470;Null;Null;Null;Null;Não;Null;Null;Null;Null;Null
+3530607;SE;SP;MOGI DAS CRUZES;Mogi das Cruzes;Mogi das Cruzes;São Paulo;Brasil;Sim;5;3;5;455587;0,280;Null;Null;0,320;Null;Null;0,400;Null;Null;Null;Null;Não;Null;Null;Null;Null;Null
+3205200;SE;ES;VILA VELHA;Vila Velha;Vila Velha;Espírito Santo;Brasil;Sim;9;5;6;508655;0,446;Null;Null;0,344;Null;Null;0,402;Null;Null;Null;Null;Não;Null;Null;Null;Null;Null
+4205407;S;SC;FLORIANOPOLIS;Florianopolis;Florianópolis;Santa Catarina;Brasil;Sim;9;5;6;516524;0,290;Null;Null;0,480;Null;Null;0,230;Null;Null;Null;Null;Não;Null;Null;Null;Null;Null
+3303302;SE;RJ;NITERÓI;Niterói;Niterói;Rio de Janeiro;Brasil;Sim;10;6;6;516981;0,633;Null;Null;0,367;0,294;0,040;0,334;Null;Null;Null;Null;Sim;0,334;0,205;0,313;0,144;0,457
+4113700;S;PR;LONDRINA;Londrina;Londrina;Paraná;Brasil;Não;7;4;6;580870;0,190;0,470;0,080;0,570;0,230;0,011;0,240;0,002;0,014;Null;Null;Não;Null;Null;Null;Null;Null
+2910800;NE;BA;FEIRA DE SANTANA;Feira de Santana;Feira de Santana;Bahia;Brasil;Sim;7;4;6;624107;0,139;0,220;0,112;0,384;0,368;0,049;0,417;0,010;Null;Null;0,030;Sim;0,400;0,200;0,300;0,100;0,400
+2800308;NE;SE;ARACAJU;Aracaju;Aracajú;Sergipe;Brasil;Sim;8;4;6;672614;0,173;0,161;0,019;0,180;0,222;0,019;0,241;Null;Null;Null;0,029;Não;Null;Null;Null;Null;Null
+3552205;SE;SP;SOROCABA;Sorocaba;Sorocaba;São Paulo;Brasil;Sim;7;4;6;695328;0,254;0,383;0,040;0,423;0,312;0,006;0,318;0,001;Null;Null;0,004;Sim;0,295;0,407;0,253;0,045;0,298
+3534401;SE;SP;OSASCO;Osasco;Osasco;São Paulo;Brasil;Sim;11;7;6;701428;0,400;Null;Null;0,300;Null;Null;0,300;Null;Null;Null;Null;Não;Null;Null;Null;Null;Null
+3543402;SE;SP;RIBEIRAO PRETO;Ribeirao Preto;Ribeirão Preto;São Paulo;Brasil;Sim;8;4;6;720116;0,215;0,419;0,101;0,526;0,223;0,028;0,251;0,020;Null;0,020;Null;Não;Null;Null;Null;Null;Null
+3547809;SE;SP;SANTO ANDRÉ;Santo Andre;Santo André;São Paulo;Brasil;Sim;11;7;6;723889;0,046;0,421;0,024;0,445;0,249;0,006;0,255;0,012;Null;Null;0,242;Não;Null;Null;Null;Null;Null
+3549904;SE;SP;SAO JOSE DOS CAMPOS;Sao Jose dos Campos;Sao José dos Campos;São Paulo;Brasil;Sim;7;4;6;737310;0,271;0,442;0,024;0,465;0,234;0,026;0,260;Null;Null;Null;Null;Não;Null;Null;Null;Null;Null
+2507507;NE;PB;JOÃO PESSOA;Joao Pessoa;João Pessoa;Paraíba;Brasil;Sim;8;4;6;825796;0,211;0,327;0,097;0,450;0,269;0,030;0,299;0,004;0,014;0,001;null;Não;Null;Null;Null;Null;Null
+2211001;NE;PI;TERESINA;Teresina;Teresina;Piauí;Brasil;Não;8;4;6;868075;0,230;0,240;0,058;0,310;0,320;0,110;0,430;0,050;0,010;0,010;0,019;Não;Null;Null;Null;Null;Null
+2408102;NE;RN;NATAL;Natal;Natal;Rio Grande do Norte;Brasil;Sim;8;4;6;896708;0,380;Null;Null;0,240;0,340;0,040;0,380;Null;Null;Null;Null;Sim;0,340;0,240;Null;Null;0,420
+2111300;NE;MA;SAO LUIS;Sao Luis;Sao Luís;Maranhão;Brasil;Sim;8;4;7;1115932;0,370;Null;Null;0,330;Null;Null;0,300;Null;Null;Null;Null;Não;Null;Null;Null;Null;Null
+3509502;SE;SP;CAMPINAS;Campinas;Campinas;São Paulo;Brasil;Sim;9;5;7;1223237;0,309;0,408;0,033;0,441;0,210;0,008;0,220;0,003;Null;Null;0,027;Não;Null;Null;Null;Null;Null
+3518800;SE;SP;GUARULHOS;Guarulhos;Guarulhos;São Paulo;Brasil;Sim;11;7;7;1404694;0,369;0,305;Null;0,305;0,314;Null;0,314;Null;Null;Null;Null;Não;Null;Null;Null;Null;Null
+4314902;S;RS;PORTO ALEGRE;Porto Alegre;Porto Alegre;Rio Grande do Sul;Brasil;Sim;9;5;7;1492530;0,430;Null;Null;0,250;Null;Null;0,290;Null;Null;Null;Null;Sim;Null;Null;Null;0,100;Null
+1302603;N;AM;MANAUS;Manaus;Manaus;Amazonas;Brasil;Sim;9;5;7;1506420;0,395;Null;Null;0,305;0,290;0,010;0,300;Null;Null;Null;Null;Não;Null;Null;Null;Null;Null
+1501402;N;PA;BELEM;Belem;Belém;Pará;Brasil;Sim;9;5;7;1506420;0,826;Null;Null;0,135;Null;0,012;Null;Null;Null;0,027;Null;Não;Null;Null;Null;Null;Null
+4106902;S;PR;CURITIBA;Curitiba;Curitiba;Paraná;Brasil;Sim;9;5;7;1963726;0,252;0,458;0,027;0,485;0,233;0,021;0,254;0,005;Null;Null;Null;Não;Null;Null;Null;Null;Null
+3106200;SE;MG;BELO HORIZONTE;Belo Horizonte;Belo Horizonte;Minas Gerais;Brasil;Sim;9;5;7;2530701;0,280;Null;Null;0,370;Null;Null;0,350;Null;Null;Null;Null;Sim;0,320;0,240;0,380;0,060;0,440
+2927408;NE;BA;SALVADOR;Salvador;Salvador;Bahia;Brasil;Sim;9;5;7;2900319;0,440;0,200;0,013;0,230;0,380;0,050;0,330;0,500;Null;Null;0,024;Não;Null;Null;Null;Null;Null
+5300108;CO;DF;BRASILIA/DISTRITO FEDERAL;Brasilia;Brasília;Distrito Federal;Brasil;Sim ;10;6;7;3094325;0,260;Null;Null;0,470;0,250;0,020;0,270;Null;Null;Null;Null;Não;Null;Null;Null;Null;Null
+3304557;SE;RJ;RIO DE JANEIRO;Rio de Janeiro;Rio de Janeiro;Rio de Janeiro;Brasil;Sim;10;6;7;6775561;0,473;0,227;0,068;0,295;0,272;0,010;0,283;Null;Null;Null;Null;Não;Null;Null;Null;Null;Null
+3550308;SE;SP;SÃO PAULO;Sao Paulo;São Paulo;São Paulo;Brasil;Sim;11;7;7;12396372;0,364;Null;Null;0,309;0,318;0,009;0,327;Null;Null;Null;Null;Sim;0,455;0,195;0,318;0,032;0,350
